@@ -38,7 +38,8 @@ Finally, use the testing data to evaluate each model and compare the performance
 Use the above to answer the following:
 
 > Which model has a lower loss?
->
+> The fng model has a lower loss with a loss of .0335.
 > Which model tracks the actual values better over time?
->
+> The fng/sentiment model tracks better over time.
 > Which window size works best for the model?
+Window size 10.
